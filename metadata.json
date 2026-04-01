@@ -1,0 +1,5 @@
+{
+  "name": "RemoteJob Agent",
+  "description": "An AI-powered agent that finds remote jobs and tailors your application materials based on your resume.",
+  "requestFramePermissions": []
+}
